@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: ab3819bb2b82bca4384358e0b13af4e2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerSprite: {instanceID: 0}
+  - playerSlow: {instanceID: 0}
+  - playerFast: {instanceID: 0}
+  - playerItem: {instanceID: 0}
+  - Bullet: {instanceID: 0}
+  - attackPanel: {instanceID: 0}
+  - lifePanel: {instanceID: 0}
+  - bluelife: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - audioClip: {fileID: 8300000, guid: 7595620bb2618cb4080d6fd1629a4d06, type: 3}
+  - airPanel: {instanceID: 0}
+  - airBarEmpty: {instanceID: 0}
+  - empty: {instanceID: 0}
+  - airblink: {instanceID: 0}
+  - airblink2: {instanceID: 0}
+  - timerUI: {instanceID: 0}
+  - imgItem1: {instanceID: 0}
+  - imgItem2: {instanceID: 0}
+  - imgItem3: {instanceID: 0}
+  - blood: {instanceID: 0}
+  - blood2: {instanceID: 0}
+  - airborder: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
